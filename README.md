@@ -1,5 +1,5 @@
 moses
-17 year old fintech, edtech founder
+17 year old fintech, edtech founder 🐲
 
 17 Years old 
 - Building Stochs, a Fintech company that aims to optimize data pipelines and Agentic Trading Stategies
@@ -17,6 +17,8 @@ moses
 - Top #15 in Malaysia for debate then became top #10 the next month, #6 in collegiate as a high schooler.
 - Learnt Economics and International Relations (college level)
 - NO LONGER A BUM
+
+Enter the Dragon! 🐉
 
 15 Years old
 - During the early era of AI, utilized Bard (now Gemini) to build an information detector that utilizes OCR tech to scan text and provide full technical summaries while aggregating data from cross verified sources for an International Innovation Fair.
