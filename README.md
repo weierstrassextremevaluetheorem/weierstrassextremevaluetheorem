@@ -33,3 +33,5 @@ Enter the Dragon! 🐉
 13 Years Old
 - Minecraft Builder
 - Chudling.
+
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/057fb5c1-4385-46d6-ac50-2f1f2b213e0d" />
