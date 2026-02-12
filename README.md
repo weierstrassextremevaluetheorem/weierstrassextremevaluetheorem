@@ -2,6 +2,7 @@ moses
 17 year old fintech, edtech founder, Full Stack SWE 🐲
 
 @moseshft - tiktok
+
 @moseswevt - X
 
 17 Years old 
