@@ -6,8 +6,10 @@ moses
 @moseswevt - X
 
 17 Years old 
-- Building Stochs, a Fintech company that aims to optimize data pipelines and Agentic Trading Stategies
-- Building Eigen, an Edtech company that acts as a skill building and a accumulation platform that gamifies learning (starting with STEM)
+- Research in Robotics, AI and Engineering
+- Own Clawtabaru - specializing ai agents for companies
+- Built Stochs, a Fintech software that aims to optimize data pipelines and Agentic Trading Stategies
+- Built Eigen, an Edtech software that acts as a skill building and a accumulation platform that gamifies learning (starting with STEM)
 - Acquired STEM.IV, a research program that selected 20 students out of 200 in order to conduct cross-disciplinary research on engineering.
 - Learnt Measure Theory, Functional Analysis, Differential Geometry, Convex Optimization, Stochastic Calculus and Mallavin Calculus in Maths
 - Learnt Data Structures and Algorithms, Machine Learning, Neural Networks and Artificial Intelligence
